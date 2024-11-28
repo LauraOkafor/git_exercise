@@ -1,0 +1,6 @@
+git init 
+git push
+git pull
+git status 
+git log --all
+git checkout -b <branch-name> 
