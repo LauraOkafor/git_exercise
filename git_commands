@@ -4,5 +4,4 @@ git pull
 git status 
 git log --all
 git checkout -b <branch-name>
-<<<<<<< HEAD
 git rebase - its used to let the remote change come into the local before the local goes to the remote
