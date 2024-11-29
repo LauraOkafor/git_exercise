@@ -3,4 +3,5 @@ git push - used to sync local with remote repository.
 git pull
 git status 
 git log --all
-git checkout -b <branch-name> 
+git checkout -b <branch-name>
+git rebase 
